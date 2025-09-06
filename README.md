@@ -125,7 +125,7 @@ COFRINHO/
 Clone ou baixe o projeto:
 
 ```bash
-git clone [url-do-repositorio]
+git clone https://github.com/mchelcouto/java_cofrinho.git
 cd COFRINHO
 ```
 
